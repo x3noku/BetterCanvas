@@ -34,5 +34,5 @@ Theare are also some methods, I think their names speak for itself:
 When you are working with circles and ellipses, x & y coordinates isn't center coordinates,
 it is coordinates of it's left top corner.
 
-##This library was designed specially for my needs, so it is very primitive and doesn't provide 
+#This library was designed specially for my needs, so it is very primitive and doesn't provide 
 some hard actions. Thank you for reading!
