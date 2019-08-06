@@ -77,7 +77,7 @@ class Canvas {
             this.ctx.strokeStyle    = strokeColor;
             this.ctx.lineWidth      = line;
             this.ctx.beginPath();
-            this.ctx.ellipse(x+radX, y+radY, radX-line/2, radY-line/2, rotation, 0, Math.PI*2);
+            this.ctx.ellipse(x+radX, y+radY, radX-line/2, radY-line/2, 0, 0, Math.PI*2);
             this.ctx.closePath();
             this.ctx.stroke();
             this.ctx.fill();
